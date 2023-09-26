@@ -1,12 +1,12 @@
 ## 📍 Installation
 ```sh
-npm i @betabotz/tools
+npm i betabotz-tools
 ```
 ## 🍟 Remini Tools
 ```js
 
 //Remini
-const { remini } = require('@betabotz-tools') 
+const { remini } = require('betabotz-tools') 
 
 const url = 'https://telegra.ph/file/d6277949edfde2cff72ef.jpg'
 // Usee tools remini
@@ -26,7 +26,7 @@ return emo //JSON
 ```js
 
 //Toanime
-const { toanime } = require('@betabotz-tools') 
+const { toanime } = require('betabotz-tools') 
 
 const url = 'https://telegra.ph/file/d6277949edfde2cff72ef.jpg'
 // Usee tools toanime
@@ -45,7 +45,7 @@ return emo //JSON
 ```js
 
 //Tozombie
-const { tozombie } = require('@betabotz-tools') 
+const { tozombie } = require('betabotz-tools') 
 
 const url = 'https://telegra.ph/file/d6277949edfde2cff72ef.jpg'
 // Usee tools tozombie
