@@ -12,7 +12,7 @@ const url = 'https://telegra.ph/file/d6277949edfde2cff72ef.jpg'
 // Usee tools remini
 const results = await remini(url)
 console.log(results) // JSON
-return emo //JSON
+return results //JSON
 ```
 ## 🍟 Result
 ```js
@@ -32,7 +32,7 @@ const url = 'https://telegra.ph/file/d6277949edfde2cff72ef.jpg'
 // Usee tools toanime
 const results = await toanime(url)
 console.log(results) // JSON
-return emo //JSON
+return results //JSON
 ```
 ## 🍟 Result
 ```js
@@ -51,7 +51,7 @@ const url = 'https://telegra.ph/file/d6277949edfde2cff72ef.jpg'
 // Usee tools tozombie
 const results = await tozombie(url)
 console.log(results) // JSON
-return emo //JSON
+return results //JSON
 ```
 ## 🍟 Result
 ```js
@@ -75,4 +75,4 @@ Jika menemukan bug atau sejenisnya,hubungi saya di [Whatsapp](https://wa.me/6285
 
 ## Lisensi
 
- scr-emoji dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Silakan merujuk pada file LICENSE untuk informasi lebih lanjut.
+ betabotz-tools dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT). Silakan merujuk pada file LICENSE untuk informasi lebih lanjut.
