@@ -1,7 +1,7 @@
 {
   "name": "betabotz-tools",
-  "version": "0.0.1",
-  "description": "Scraper Free To Use.",
+  "version": "0.0.2",
+  "description": "Scraper Free To Use ( Toanime,Tozombie,Remini/Upscale )",
   "main": "module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
