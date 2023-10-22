@@ -1,11 +1,11 @@
 /*
-Tools Spotidy Downloader
+Tools Spotify Downloader
 */
 
 const axios = require('axios');
 const { baseUrl } = require('../config.js')
 
-async function spotify(url) {
+async function spotifydl(url) {
   try {
     const { data } = await axios.get(`${baseUrl}/tools/spotifydl?url=${url}`, {
       headers: {
