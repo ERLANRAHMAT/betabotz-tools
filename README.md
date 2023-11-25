@@ -223,6 +223,41 @@ const results = await twitter(url)
 console.log(results) // JSON
 return results //JSON
 ```
+```js
+
+// Xvideos Downloader
+const { xvideosdl } = require('betabotz-tools') 
+const url = ''
+const results = await xvideosdl(url)
+console.log(results) // JSON
+return results //JSON
+```
+
+```js
+// XNXX Downloader
+const { xnxxdl } = require('betabotz-tools');
+const urlXNXX = ''; // Ganti dengan URL yang diinginkan
+const resultsXNXX = await xnxxdl(urlXNXX);
+console.log(resultsXNXX); // JSON
+return resultsXNXX; // JSON
+```
+```js
+// Xvideos Search
+const { xvideoss } = require('betabotz-tools');
+const queryXvideos = ''; // Ganti dengan query pencarian yang diinginkan
+const resultsXvideoss = await xvideoss(queryXvideos);
+console.log(resultsXvideoss); // JSON
+return resultsXvideoss; // JSON
+```
+```js
+// XNXX Search
+const { xnxxs } = require('betabotz-tools');
+const queryXNXX = ''; // Ganti dengan query pencarian yang diinginkan
+const resultsXnxxs = await xnxxs(queryXNXX);
+console.log(resultsXnxxs); // JSON
+return resultsXnxxs; // JSON
+```
+
 
 ## ❗NOTE
 
