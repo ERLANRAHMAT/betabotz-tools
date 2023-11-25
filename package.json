@@ -1,6 +1,6 @@
 {
   "name": "betabotz-tools",
-  "version": "0.0.4-fix",
+  "version": "0.0.5",
   "description": "Scraper Free To Use ( Toanime,Tozombie,Remini/Upscale, Etc )",
   "main": "module.js",
   "scripts": {
