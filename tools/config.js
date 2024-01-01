@@ -1,4 +1,4 @@
 module.exports = {     
-    baseUrl: 'https://tools.betabotz.org'   
+    baseUrl: 'https://tools.betabotz.eu.org'   
     }  
     
